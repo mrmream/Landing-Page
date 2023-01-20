@@ -64,6 +64,11 @@ body {
     padding: 20px;
     flex-basis: 100%;
   }
+
+  section.quotes {
+    justify-content: center;
+    font-style: italic;
+  }
   
   footer {
     background-color: #1f2937;
