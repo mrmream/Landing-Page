@@ -1,5 +1,5 @@
 body {
-    font-family: roboto, sans-serif;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
   }
   
   header {
@@ -53,12 +53,13 @@ body {
   
   .about {
     background-color: #fff;
+    font-size: 34px;
     padding: 20px;
     flex-basis: 100%;
   }
   
   .services {
-    display: flex;
+    justify-content: baseline;
     background-color: #f5f5f5;
     padding: 20px;
     flex-basis: 100%;
@@ -73,5 +74,9 @@ body {
   }
   
   .signup{
-    background-color: antiquewhite;
+    display: flexbox;
+    color: #fff;
+    padding: 20px;
+    background-color: #1f2937;
+    flex-basis: 100%;
   }
