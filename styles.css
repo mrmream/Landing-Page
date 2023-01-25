@@ -1,5 +1,5 @@
 body {
-    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-family: 'Courier New', Courier, monospace
   }
   
   header {
@@ -46,7 +46,7 @@ body {
     background-color: #1f2937;
     padding: 20px;
     color: #f9faf8;
-    font-size: 48px;
+    font-size: 30px;
     flex-basis: 100%;
     text-align: center;
   }
